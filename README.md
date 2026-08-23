@@ -6,6 +6,25 @@ The system collects **temperature, humidity, door status, and GPS location** dat
 
 ---
 
+# 📂 Project Resources
+
+All project resources, including project files, documentation, screenshots, and demo materials, are available here:
+
+🔗 **[Google Drive – Project Resources](https://drive.google.com/drive/folders/1K-APM2zSNzP_QS17alZczHnr3LxxGf2Y)**
+
+---
+
+
+# 🎥 Project Demo
+
+Click the thumbnail below to watch the complete project demonstration:
+
+[![Smart Cold Chain Monitoring System Demo](https://youtu.be/1U6ZyzI57Mo)
+
+**▶️ Watch the Project Demo on YouTube**
+
+---
+
 ## 🚀 Features
 
 - 🌡️ Real-time temperature monitoring
