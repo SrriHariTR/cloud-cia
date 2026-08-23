@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=ciabe50;AccountKey=qPDG7NrBDfbK2/IpNPjEYpREsEbsfLvFdlKmHurVCycR25F8RJo4MVGUHP05J1WMi50DBQx52Vgm+ASt+7xThA==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "smartcoldchainhub_RootManageSharedAccessKey_EVENTHUB": "Endpoint=sb://smart-cold-chain-hub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=xWmnt+oWyJcWl0eA3htth4GP5zqntxcxh+AEhK+cO9k=;EntityPath=smart-cold-chain-hub-945b2821df",
+    "IOTHUB_CONNECTION": "Endpoint=sb://ihsuprodmares002dednamespace.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=X3lk3DmS9B94Tq992spWpU6l7eTPr7thqAIoTCUPCEY=;EntityPath=iothub-ehub-smart-cold-56230012-7b5c5daa6f",
+    "TABLE_STORAGE_CONNECTION": "DefaultEndpointsProtocol=https;AccountName=ciabe50;AccountKey=qPDG7NrBDfbK2/IpNPjEYpREsEbsfLvFdlKmHurVCycR25F8RJo4MVGUHP05J1WMi50DBQx52Vgm+ASt+7xThA==;EndpointSuffix=core.windows.net"
+  },
+  "Host": {
+    "CORS": "*"
+  }
+}
