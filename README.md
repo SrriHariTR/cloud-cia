@@ -14,12 +14,11 @@ All project resources, including project files, documentation, screenshots, and 
 
 ---
 
-
 # 🎥 Project Demo
 
 Click the thumbnail below to watch the complete project demonstration:
 
-[![Smart Cold Chain Monitoring System Demo](https://youtu.be/1U6ZyzI57Mo)
+[![Smart Cold Chain Monitoring System Demo](https://img.youtube.com/vi/1U6ZyzI57Mo/maxresdefault.jpg)](https://youtu.be/1U6ZyzI57Mo)
 
 **▶️ Watch the Project Demo on YouTube**
 
